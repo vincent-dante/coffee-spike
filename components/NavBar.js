@@ -9,7 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 
 export default function NavBar() {
-  const [showDropDown, setShowDropDown] = React.useState(true);
+  const [showDropDown, setShowDropDown] = React.useState(false);
 
   const onClickShowDropDown = () => {
     setShowDropDown((wasOpened) => !wasOpened);
