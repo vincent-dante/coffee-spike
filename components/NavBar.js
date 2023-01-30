@@ -22,7 +22,7 @@ export default function NavBar() {
           <h1>
             <Link href="/">
               <Image
-                src="/CoffeeSpike.svg"
+                src="/LogoCoffeeSpike.svg"
                 alt="CoffeeSpikeLogo"
                 width="150"
                 height="150"
