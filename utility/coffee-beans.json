@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "0001",
+      "name": "Arabica Coffee",
+      "city": "Cordillera",
+      "weight": "25kg",
+      "price": "385.00",
+      "image": "/arabica-coffee.jpg"
+    },
+    {
+      "id": "0002",
+      "name": "Robusta Coffee",
+      "city": "Southern Tagalog",
+      "weight": "25kg",
+      "price": "405.00",
+      "image": "/robusta-coffee.jpg"
+    },
+    {
+      "id": "0003",
+      "name": "Excelsa Coffee",
+      "city": "Quezon, Batangas",
+      "weight": "25kg",
+      "price": "385.00",
+      "image": "/excelsa-coffee.jpg"
+    },
+    {
+      "id": "0004",
+      "name": "Kapeng Barako",
+      "city": "Batangas",
+      "weight": "25kg",
+      "price": "310.00",
+      "image": "/kapeng-barako.jpg"
+    }
+  ]
+}
